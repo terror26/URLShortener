@@ -10,4 +10,4 @@ On opening the short URL, the original link is fetched from the database using t
 ```
 Open your favorite browser and go to https://localhost:3000/
 
-*Note: The database is hosted on MongoLab.*
+*Note: The database is hosted on MongoLab strictly.*
